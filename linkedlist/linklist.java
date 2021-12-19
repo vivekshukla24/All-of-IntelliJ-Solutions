@@ -112,15 +112,4 @@ public class linklist {
             this.next = next;
         }
     }
-//    public Node find(int element){
-//        Node node=head;
-//
-//        while (node!=null){
-//            return node;
-//
-//
-//        }
-//        node=node.next;
-//    } return null;
-
 }
